@@ -43,7 +43,7 @@ This section links to a real-time demonstration of the phenomenon as observed du
 The video is not staged as an experiment; it simply captures the behavior that triggered the questions and reasoning documented here.
 
 **Demonstration Video (YouTube):**
-👉 *[Check the video](https://youtube.com/shorts/dX0ES1MfhwA?feature=share)]*
+👉 *[[Check the video](https://youtube.com/shorts/dX0ES1MfhwA?feature=share)]*
 
 **What the video shows:**
 
